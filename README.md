@@ -1,3 +1,5 @@
+Github URL: https://github.com/alexedw01/Data-Science-UCLA-Class-Portfolio
+
 # Overview
 
 This project utilizes the Heart Failure Clinical Records dataset from Kaggle to investigate factors associated with mortality among patients experiencing heart failure. The dataset contains 299 patient records with 12 clinical and demographic features, including age, anaemia status, creatinine phosphokinase levels, diabetes status, ejection fraction, blood pressure, platelet count, serum creatinine, serum sodium, sex, smoking status, and follow-up time. The target variable, death event, indicates whether the patient died during the follow-up period. These features provide a compact yet clinically meaningful basis for analyzing patient risk profiles and predicting adverse outcomes.
